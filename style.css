@@ -154,7 +154,9 @@ a:hover{
     gap: 20px; /* Space between boxes */
     padding: 20px;
 }
-
+.extra:hover{
+    color: #333;
+}
 .extra {
     flex: 1 1 200px; /* Grow and shrink, with a base width of 200px */
     height: 150px;
